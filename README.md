@@ -1,6 +1,6 @@
 # 🎟 nft-e2e-example
 
-> An end-to-end example of minting NFTs on Ethereum from your browser. Powered by nft.storage and scaffold-eth!
+> An end-to-end example of minting NFTs on BnB chain from your browser. Powered by nft.storage and scaffold-eth!
 
 ---
 
